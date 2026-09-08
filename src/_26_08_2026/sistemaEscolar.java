@@ -1,6 +1,7 @@
 
 package _26_08_2026;
 
+//  Bibliotecas
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
